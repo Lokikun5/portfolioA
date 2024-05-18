@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolioA/static/css/main.73f74396.css",
+    "main.js": "/portfolioA/static/js/main.3ce6a422.js",
+    "static/js/453.d22c673f.chunk.js": "/portfolioA/static/js/453.d22c673f.chunk.js",
+    "static/media/ocprojectp13.png": "/portfolioA/static/media/ocprojectp13.2d89b345f364d5a66579.png",
+    "static/media/icons-img-web2.webp": "/portfolioA/static/media/icons-img-web2.fde0784023f154073b18.webp",
+    "static/media/404notfound.webp": "/portfolioA/static/media/404notfound.84bc880e6da2e7713da2.webp",
+    "static/media/erIntranet.webp": "/portfolioA/static/media/erIntranet.5fcad8ae7d61472181da.webp",
+    "static/media/code-1076536_1920.jpg": "/portfolioA/static/media/code-1076536_1920.b2d50da4ed34116333b5.jpg",
+    "static/media/web_developer_portfolio_cat sitting.webp": "/portfolioA/static/media/web_developer_portfolio_cat sitting.7736b664f081dcf49288.webp",
+    "static/media/project-er.webp": "/portfolioA/static/media/project-er.f96484cf549d88814494.webp",
+    "static/media/logo.webp": "/portfolioA/static/media/logo.6cd84cb82c413cb65171.webp",
+    "static/media/ocbill.png": "/portfolioA/static/media/ocbill.f0b216689a611cd1e669.png",
+    "static/media/ocp14intra.png": "/portfolioA/static/media/ocp14intra.b9cc0b38797c90d627eb.png",
+    "static/media/email-svgrepo-com.svg": "/portfolioA/static/media/email-svgrepo-com.2cf8522ee1c8fe6b8a5e61d04c0754a6.svg",
+    "static/media/linkedin-svgrepo-com.svg": "/portfolioA/static/media/linkedin-svgrepo-com.c11a51dc5395675c338ae20f84fcfa75.svg",
+    "static/media/github-mark.svg": "/portfolioA/static/media/github-mark.6fa18895f6e6c7772cab7049f7e05f59.svg",
+    "index.html": "/portfolioA/index.html",
+    "main.73f74396.css.map": "/portfolioA/static/css/main.73f74396.css.map",
+    "main.3ce6a422.js.map": "/portfolioA/static/js/main.3ce6a422.js.map",
+    "453.d22c673f.chunk.js.map": "/portfolioA/static/js/453.d22c673f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f74396.css",
+    "static/js/main.3ce6a422.js"
+  ]
+}
