@@ -1,0 +1,13 @@
+h2{
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+
+.side-img{
+  height: 50vh;
+}
+@media (max-width:720px ){
+  .side-img{
+    width: 100%;
+  }
+}

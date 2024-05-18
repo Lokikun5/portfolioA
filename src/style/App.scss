@@ -1,0 +1,40 @@
+p{
+  font-size: 1.2rem;
+}
+#dataSkills, #profil, #contact{
+  scroll-margin-top: 150px;
+}
+#project{
+  scroll-margin-top: 160px;
+}
+.img-card{
+  height: 40vh;
+  width: 100%;
+  object-fit: cover;
+}
+.img-contact{
+  width: 30vw;
+}
+.not-found-img{
+  height: 40vh;
+  width: 40vw;
+}
+.paddingxxl{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.display-card{
+  width: 48%;
+}
+@media (max-width:720px) {
+  .display-card{
+    width: 100%;
+  }
+  .img-contact{
+    width: 70vw;
+    margin-bottom: 10px;
+  }
+}
