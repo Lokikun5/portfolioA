@@ -12,16 +12,16 @@ function Header () {
         <header>
             <Navbar expand="lg" className="bg-body-tertiary fixed-top">
                 <Container>
-                    <Navbar.Brand href="/">
+                    <Navbar.Brand href={`${process.env.PUBLIC_URL}/`}>
                         <img className="logo-img rounded-circle" src={mylogo} alt="mon logo"/>
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
-                            <Nav.Link href="/#profil">Profil</Nav.Link>
-                            <Nav.Link href="/#dataSkills">Compétences</Nav.Link>
-                            <Nav.Link href="/#project">Projet et Expérience</Nav.Link>
-                            <Nav.Link href="/#contact">Contact</Nav.Link>
+                            <Nav.Link href="#profil">Profil</Nav.Link>
+                            <Nav.Link href="#dataSkills">Compétences</Nav.Link>
+                            <Nav.Link href="#project">Projet et Expérience</Nav.Link>
+                            <Nav.Link href="#contact">Contact</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
