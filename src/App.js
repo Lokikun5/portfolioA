@@ -13,7 +13,10 @@ const router = createBrowserRouter([
     element: <NotFound/>
   }
 
-])
+],
+    {
+      basename: '/portfolioA'
+    });
 function App() {
   return (
       <RouterProvider router={router}/>
