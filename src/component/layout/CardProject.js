@@ -26,9 +26,11 @@ function CardProject({ title, description, experiences, slug, src, hasWebSite })
                     </ul>
 
                 </div>
-                <a href={slug}>
-                    <Button variant="primary">{hasWebSite ? "Visitez le site" : "Voir le code"}</Button>
-                </a>
+                {slug && (
+                    <a href={slug}>
+                        <Button variant="primary">{hasWebSite ? "Visitez le site" : "Voir le code"}</Button>
+                    </a>
+                )}
             </Card.Body>
         </Card>
     )

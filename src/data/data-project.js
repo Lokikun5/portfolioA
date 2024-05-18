@@ -24,7 +24,7 @@ const dataProject = [
             "Assurer le bon fonctionnement du flux de travail de l'application, notamment en gérant les demandes de réservation, l'agenda et tout autre élément de l'application",
             "Avec les nombreuses données stockées dans l'application (les demandes, réservations ou les devis), nous avons travaillé sur un service à but commercial en back-end afin de fournir des statistiques sur ces données, telles que le nombre moyen de demandes sur une période ou le classement des lieux les plus demandés"
         ],
-        link:"portfolioA/not-found",
+
         image: erIntranet,
         hasWebSite: false,
     },
